@@ -1,11 +1,8 @@
 # Future Project Ideas
 
 ## Just-For-Fun Projects
-
-### Conway's game of life
-
-### Snake
+1.  Conway's game of life
+2.  Snake
 
 ## Bioinformatics Projects
-
-### Reading covid sequences from NCBI dbs
+1.  Reading covid sequences from NCBI dbs
