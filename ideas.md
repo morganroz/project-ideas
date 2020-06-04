@@ -7,3 +7,6 @@
 
 ## Bioinformatics Projects
 1.  Reading covid sequences from NCBI dbs
+2.  Data visualizations from the sequences  
+	- Covid sequence country data
+	- Covid sequence differences
